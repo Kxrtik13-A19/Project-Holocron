@@ -1,19 +1,43 @@
-# PROPRIETARY HARDWARE AND DESIGN LICENSE
-**Project Holocron (KAR & EVE)**
+# PROPRIETARY HARDWARE AND INTELLECTUAL PROPERTY LICENSE AGREEMENT
 
-**Copyright (c) 2026 Kartik and Eve. All rights reserved.**
+**PROJECT IDENTIFIER:** Project Holocron (KAR & EVE)
+**INTELLECTUAL PROPERTY OWNERS:** Kartik and Eve
+**JURISDICTION:** United States of America 
 
-This software, hardware design, circuit schematics, PCB layout, documentation, features, concepts, and associated files (collectively, the "Project") are the exclusive property of **Kartik** and **Eve** (the "Copyright Holders"). 
+THIS PROPRIETARY HARDWARE AND INTELLECTUAL PROPERTY LICENSE AGREEMENT (the "Agreement") constitutes a legally binding and strictly enforced contract between you (whether an individual, corporation, or other legal entity, hereafter "User") and the exclusive copyright and intellectual property owners, **Kartik** and **Eve** (the "Owners"). 
 
-### 1. Strict Restrictions
-Except as expressly permitted by written authorization signed by both Copyright Holders, no person, entity, company, or organization is authorized to:
-* **Copy, Reproduce, or Duplicate:** Replicate the physical design, schematic architecture, layout files, or concept in whole or in part.
-* **Redesign or Remake:** Create derivative works, modifications, adaptations, or secondary iterations based upon the design, features, or core ideas of this Project.
-* **Distribute or Share:** Publish, sell, lease, sublicense, transfer, or redistribute the design files, documentation, schematics, or intellectual property to any third party.
-* **Commercial or Private Utilization:** Manufacture, build, or deploy hardware based on this Project for commercial, public, or private use without explicit prior consent.
+By viewing, accessing, downloading, analyzing, or possessing any files, documentation, or physical manifestations related to Project Holocron (KAR & EVE) (the "Project"), you unconditionally accept and agree to be bound by the absolute restrictions set forth in this Agreement.
 
-### 2. Permissions
-Any request for licensing, commercial usage, redesign authorization, or collaborative exceptions must be submitted directly to and approved by **both** Kartik and Eve in writing. 
+---
 
-### 3. Disclaimer of Warranty
-THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PROJECT.
+### ARTICLE I: SCOPE OF PROPRIETARY ASSETS
+This Agreement rigorously protects all tangible and intangible assets comprising the Project. Protected assets include, but are not limited to:
+1. **Hardware Architecture:** Circuit schematics, netlists, component logic, and electrical/power delivery designs.
+2. **PCB Layout Data:** Printed Circuit Board routing files, Gerber datasets, drill files, and specific copper layer topologies (`F.Cu`, `B.Cu`).
+3. **Core Ideas & Features:** Unreleased design choices, functional methodologies, integration strategies, proprietary features, and hardware concepts.
+4. **Industrial Design:** Mechanical blueprints, 3D CAD models, chassis dimensions, and physical enclosure aesthetics.
+
+### ARTICLE II: ZERO-TOLERANCE PROHIBITIONS
+The Project is provided exclusively for authorized viewing. Unless explicitly granted via the Dual-Consent Mandate (Article III), the User is strictly and unequivocally prohibited from:
+* **Reproduction & Cloning:** Copying, manufacturing, fabricating, or reproducing the hardware, layout files, or schematics in any capacity.
+* **Redesign & Derivation:** Remaking, redesigning, reverse-engineering, or creating derivative works based on the Project’s ideas, layouts, or feature sets.
+* **Idea Extraction:** Utilizing the underlying concepts, methodologies, or feature implementations to develop a competing or standalone product.
+* **Distribution & Transmission:** Distributing, sharing, hosting, selling, or transmitting any design files, documentation, or ideas to any third party, open-source repository, or commercial manufacturer.
+* **Commercialization:** Monetizing, marketing, or deploying the Project for any private, public, or commercial gain.
+
+### ARTICLE III: THE DUAL-CONSENT MANDATE
+No exceptions to Article II exist. Any request for authorization to utilize, redesign, or distribute the Project must be approved in writing. **To be legally valid, any such authorization must bear the explicit, verifiable, and signed consent of BOTH Kartik AND Eve.** Consent granted by only one Owner is legally void and constitutes a breach of this Agreement.
+
+### ARTICLE IV: FEDERAL ENFORCEMENT & TRADE SECRETS
+The Owners aggressively protect their intellectual property rights to the maximum extent permitted by United States law. 
+* **Copyright Act:** The schematics, layouts, and code are fully protected under the **United States Federal Copyright Act (17 U.S.C. § 101 et seq.)**.
+* **Trade Secret Protection:** The proprietary routing, component integration, and hardware features constitute highly guarded trade secrets. Any unauthorized acquisition, extraction, or deployment of these ideas violates the **Defend Trade Secrets Act of 2016 (18 U.S.C. § 1836 et seq.)** and will trigger immediate federal legal action.
+
+### ARTICLE V: INJUNCTIVE RELIEF & DAMAGES
+In the event of unauthorized reproduction, derivation, or distribution, the Owners shall be entitled to immediate injunctive relief (including temporary restraining orders and permanent injunctions) without the requirement to post bond. The User acknowledges that unauthorized use of the Project causes irreparable harm. The Owners reserve the right to pursue maximum statutory damages, actual damages, disgorgement of profits, and full recovery of attorney’s fees and legal costs.
+
+### ARTICLE VI: GOVERNING LAW
+This Agreement shall be governed, construed, and enforced in accordance with the federal laws of the United States and applicable state intellectual property laws, without regard to conflicts of law principles. Any litigation arising from this Agreement shall be brought exclusively in the appropriate United States federal or state courts.
+
+---
+**UNAUTHORIZED USE, REDESIGN, OR DISTRIBUTION IS A VIOLATION OF FEDERAL LAW. ALL RIGHTS STRICTLY RESERVED.**
