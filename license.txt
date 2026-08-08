@@ -1,0 +1,19 @@
+# PROPRIETARY HARDWARE AND DESIGN LICENSE
+**Project Holocron (KAR & EVE)**
+
+**Copyright (c) 2026 Kartik and Eve. All rights reserved.**
+
+This software, hardware design, circuit schematics, PCB layout, documentation, features, concepts, and associated files (collectively, the "Project") are the exclusive property of **Kartik** and **Eve** (the "Copyright Holders"). 
+
+### 1. Strict Restrictions
+Except as expressly permitted by written authorization signed by both Copyright Holders, no person, entity, company, or organization is authorized to:
+* **Copy, Reproduce, or Duplicate:** Replicate the physical design, schematic architecture, layout files, or concept in whole or in part.
+* **Redesign or Remake:** Create derivative works, modifications, adaptations, or secondary iterations based upon the design, features, or core ideas of this Project.
+* **Distribute or Share:** Publish, sell, lease, sublicense, transfer, or redistribute the design files, documentation, schematics, or intellectual property to any third party.
+* **Commercial or Private Utilization:** Manufacture, build, or deploy hardware based on this Project for commercial, public, or private use without explicit prior consent.
+
+### 2. Permissions
+Any request for licensing, commercial usage, redesign authorization, or collaborative exceptions must be submitted directly to and approved by **both** Kartik and Eve in writing. 
+
+### 3. Disclaimer of Warranty
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PROJECT.
