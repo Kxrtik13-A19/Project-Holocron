@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![KiCad Version](https://img.shields.io/badge/KiCad-v8.0%2B-blue.svg)](https://kicad.org/)
+[![KiCad Version](https://img.shields.io/badge/KiCad-v10.0%2B-blue.svg)](https://kicad.org/)
 [![PCB Layers](https://img.shields.io/badge/PCB-2%20Layer%20Custom-orange.svg)]()
 [![Routing Status](https://img.shields.io/badge/Unrouted%20Nets-0%20(100%25)-success.svg)]()
 
