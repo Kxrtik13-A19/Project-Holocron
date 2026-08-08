@@ -58,9 +58,3 @@
 3. **Board Outline (`Edge.Cuts`):** Precise rectangular perimeter defining the physical dimensions of the control deck.
 4. **Copper Routing:** Dual-layer trace balancing (`F.Cu` red / `B.Cu` blue) with via stitching.
 5. **DRC Validation:** Verified against manufacturing constraints to ensure absolute zero unrouted nets and zero keepout violations.
-
----
-
-## 📜 License
-
-Developed under the **MIT License**. Feel free to use, modify, and build upon this hardware architecture!
