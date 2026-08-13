@@ -96,8 +96,6 @@ Hardware without art is just a machine. Project Holocron is a canvas. The silksc
 
 ## 🛠️ 7. Fabrication & Assembly Protocol
 
-*(Rigorous step-by-step assembly protocol to be executed upon receipt of Rev 1.0 Gerber files)*
-
 1.  **QA Inspection:** Inspect the custom FR4 PCB for trace shorts, verify via plating, and ensure all chamfered edge cuts conform to the CAD dimensional limits.
 2.  **Core Mounting:** Secure the Raspberry Pi 5 to the rear of the board utilizing M2.5 brass standoffs, aligning the 40-pin GPIO header.
 3.  **Thermal Integration:** Seat the Active Cooler directly through the custom 65x45mm PCB thermal window. Secure the spring-loaded push pins until they lock onto the Pi 5 chassis.
