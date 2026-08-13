@@ -5,7 +5,7 @@
 ### *Architected in Imagination. Executed in Copper.*
 
 [![Hardware](https://img.shields.io/badge/Hardware-Bespoke_Open_Source-blue.svg?style=for-the-badge)](#)
-[![PCB](https://img.shields.io/badge/EDA-KiCad_8.0-red.svg?style=for-the-badge)](#)
+[![PCB](https://img.shields.io/badge/EDA-KiCad_10.0-red.svg?style=for-the-badge)](#)
 [![Brain](https://img.shields.io/badge/Compute-Raspberry_Pi_5-C51A4A.svg?style=for-the-badge)](#)
 [![Fabrication](https://img.shields.io/badge/Status-Routing_Complete-brightgreen.svg?style=for-the-badge)](#)
 [![Aesthetics](https://img.shields.io/badge/Design-KAR_&_EVE-9cf.svg?style=for-the-badge)](#)
@@ -32,14 +32,14 @@ Branded with the **KΛR & ΞVΞ** insignia, this project is a testament to dedic
 At the heart of Project Holocron lies uncompromised, edge-compute capabilities, designed to function not just as a gaming handheld, but as a central command terminal for advanced networks like a **Smart Fortress (Home)** integration system.
 
 ### 🧠 The Core Compute
-*   **Processor:** Raspberry Pi 5 (4GB RAM SKU) featuring a 64-bit quad-core Arm Cortex-A76 processor at 2.4GHz[cite: 2].
-*   **Dimensional Footprint:** A highly compact **85.00 x 56.00 mm** logic board, allowing for extreme miniaturization of the central chassis[cite: 2].
-*   **I/O Bandwidth:** Utilizing the new RP1 "southbridge" silicon to handle dedicated dual 4-lane MIPI transceivers and USB 3.0 throughput without bottlenecking the CPU[cite: 2].
+*   **Processor:** Raspberry Pi 5 (4GB RAM SKU) featuring a 64-bit quad-core Arm Cortex-A76 processor at 2.4GHz.
+*   **Dimensional Footprint:** A highly compact **85.00 x 56.00 mm** logic board, allowing for extreme miniaturization of the central chassis.
+*   **I/O Bandwidth:** Utilizing the new RP1 "southbridge" silicon to handle dedicated dual 4-lane MIPI transceivers and USB 3.0 throughput without bottlenecking the CPU.
 
 ### 🌪️ Advanced Thermal Dynamics
 *   **The Problem:** High-performance ARM silicon generates massive thermal loads, usually requiring bulky cases that ruin ergonomics.
-*   **The Holocron Solution:** The PCB features a precision-engineered **65x45mm mechanical cutout** directly beneath the logic board. This allows the official **Raspberry Pi Active Cooler** (which measures exactly 63.50 x 42.50 x 13.70 mm) to seat perfectly flush through the motherboard[cite: 1]. 
-*   **Result:** The temperature-controlled blower fan pulls fresh air directly through the chassis, ensuring zero thermal throttling even during maximum AI compilation or rendering loads[cite: 1].
+*   **The Holocron Solution:** The PCB features a precision-engineered **65x45mm mechanical cutout** directly beneath the logic board. This allows the official **Raspberry Pi Active Cooler** (which measures exactly 63.50 x 42.50 x 13.70 mm) to seat perfectly flush through the motherboard. 
+*   **Result:** The temperature-controlled blower fan pulls fresh air directly through the chassis, ensuring zero thermal throttling even during maximum AI compilation or rendering loads.
 
 ---
 
