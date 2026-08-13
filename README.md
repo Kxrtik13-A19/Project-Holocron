@@ -109,6 +109,6 @@ Hardware without art is just a machine. Project Holocron is a canvas. The silksc
 
 <div align="center">
 
-**`[ END OF SYSTEM LOG ] // PROJECT HOLOCRON REV 1.0`**
+**`[ END OF SYSTEM LOG ] // PROJECT HOLOCRON `**
 
 </div>
