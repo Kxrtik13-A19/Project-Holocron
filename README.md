@@ -91,7 +91,10 @@ Hardware without art is just a machine. Project Holocron is a canvas. The silksc
 | **Action Switches** | 6x6mm Tactile Pushbuttons | 4 | ABXY Cluster Actuation |
 | **Illumination** | 3mm Through-Hole LEDs (Blue) | 2 | Forward Voltage Shoulder Indicators |
 | **Signal Logic** | Multi-channel ADC / Multiplexer | 1 | Analog-to-Digital Signal Conversion |
-
+| **Tilt Control** | MPU6050 Gyroscope And Accelerometer | 1 | Translates tilt into steering |
+| **Amplifier** | MAX98357A Amplifier Module | 1 | Converts digital audio to speaker |
+| **Voice Pickup** | INMP441 MEMS Microphone | 1 | Converts voice sound to digital |
+| **Audio Output** | Mini Oval Speaker - 8 Ohm 1 Watt | 1 | Outputs digital audio as sound |
 ---
 
 ## 🛠️ 7. Fabrication & Assembly Protocol
