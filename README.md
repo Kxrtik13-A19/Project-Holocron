@@ -7,7 +7,7 @@
 [![Hardware](https://img.shields.io/badge/Hardware-Bespoke_Open_Source-blue.svg?style=for-the-badge)](#)
 [![PCB](https://img.shields.io/badge/EDA-KiCad_10.0-red.svg?style=for-the-badge)](#)
 [![Brain](https://img.shields.io/badge/Compute-Raspberry_Pi_5-C51A4A.svg?style=for-the-badge)](#)
-[![Fabrication](https://img.shields.io/badge/Status-CAD_Designing-brightgreen.svg?style=for-the-badge)](#)
+[![Fabrication](https://img.shields.io/badge/Status-CAD_Body_Designing-brightgreen.svg?style=for-the-badge)](#)
 [![Aesthetics](https://img.shields.io/badge/Design-KAR_&_EVE-9cf.svg?style=for-the-badge)](#)
 
 > **"COMPLEXITY IS THE ENEMY OF EXECUTION."** 
