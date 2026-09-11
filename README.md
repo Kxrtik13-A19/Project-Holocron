@@ -94,7 +94,7 @@ Hardware without art is just a machine. Project Holocron is a canvas. The silksc
 | **Tilt Control** | MPU6050 Gyroscope And Accelerometer | 1 | Translates tilt into steering |
 | **Amplifier** | MAX98357A Amplifier Module | 1 | Converts digital audio to speaker |
 | **Voice Pickup** | INMP441 MEMS Microphone | 1 | Converts voice sound to digital |
-| **Audio Output** | Mini Oval Speaker - 8 Ohm 1 Watt | 1 | Outputs digital audio as sound |
+| **Audio Output** | Mini Oval Speaker - 8 Ohm 1 Watt | 2 | Outputs digital audio as sound |
 ---
 
 ## 🛠️ 7. Fabrication & Assembly Protocol
